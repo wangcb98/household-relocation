@@ -1,5 +1,7 @@
 # household-relocation
-This Github project was created by Chenbo Wang on 28 February 2025. This folder contains:
+This Github project was created by Chenbo Wang on 28 February 2025. It contains code related to "Should I stay or should I go? Leveraging data-driven approaches to explore the effect of various disaster policies on postearthquake household relocation decision-making", published on $Risk Analysis$.
+
+This folder contains:
 (1) $R$ code for developing the data-driven model using local data: Nepali household survey (conducted Independent Impacts and Recovery Monitoring Nepal; which can be requested from The Asia Foundation via nepal.general@asiafoundation.org);
 (2) $Matlab$ and $R$ code for implementing the case study on Tomorrowville, a hypothetical neutral urban testbed that reflects a typical Global-south setting (espeically Kathmandu, Nepal) by means of its social and physical characteristics.
 
