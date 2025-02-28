@@ -1,4 +1,4 @@
-# household-relocation
+# Postearthquake Household Relocation Decision-making
 This Github project was created by Chenbo Wang on 28 February 2025. It contains code related to "Should I stay or should I go? Leveraging data-driven approaches to explore the effect of various disaster policies on postearthquake household relocation decision-making", published on $Risk Analysis$.
 
 This folder contains:
